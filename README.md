@@ -3,8 +3,8 @@
 
 
 # Dashboard Summary: Age-Wise Disease Analysis
-*Prepared by [Your Name]*
-*Date: [Current Date]*
+**Prepared by: Hamza Abbasi**
+**Date: 1/9/2023**
 
 ## Introduction
 This dashboard provides a comprehensive analysis of disease distribution among different age groups, allowing healthcare professionals and policymakers to gain valuable insights into the health trends within a specific region. The dashboard incorporates various slicers, enabling users to filter data by age, hospital, city, town, and date, making it a powerful tool for data-driven decision-making.
